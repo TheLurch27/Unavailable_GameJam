@@ -33,8 +33,4 @@ public class MainMenuManager : MonoBehaviour
         SceneManager.LoadScene("OptionMenu");
     }
 
-    void OpenCredits()
-    {
-        SceneManager.LoadScene("Credits");
-    }
 }
